@@ -30,8 +30,17 @@
 		2. 설정
 		3. 보안
 	3. Puma for ROR
-	4. SQL
-		1. mysql
+	4. mysql
+		1. 설치
+		2. 설정
+		3. 보안
+7. 개발 및 서버 보안 수칙
+6. 주의해야할 것들
+	1. ftp/sftp
+	2. 메일 서버
+	3. ssh/telnet
+	4. irc
+	5. 로컬 레포지토리
 4. 이슈트래커 관리
 	1. gitlab
 	2. phabricator
